@@ -294,7 +294,8 @@ button:focus {
   background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
-    width: 100%; }
+    width: 100%;
+    background: #f8f8f8; }
     .home_banner_area .banner_inner .home_left_img {
       padding-top: 195px; }
     .home_banner_area .banner_inner .col-lg-6 {
